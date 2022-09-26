@@ -10,6 +10,8 @@
     display:flex;
     column-gap: 15px;
     justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
 }
 
 .item{
@@ -17,4 +19,7 @@
     height: 200px;
     border: 2px solid black;
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center;
 }
