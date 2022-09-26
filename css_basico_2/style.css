@@ -1,0 +1,28 @@
+h1{
+    font-family: Montserrat;
+}
+
+.date{
+    font-family: Roboto;
+    color: #008080;
+}
+
+.post-container{
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: #fffafa;
+    
+}
+
+.post-container div.post-container{
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+.post-container .post{
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
